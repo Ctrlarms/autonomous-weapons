@@ -1,0 +1,1387 @@
+[
+  {
+    "name": "Afghanistan",
+    "code": "afghanistan",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Albania",
+    "code": "albania",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Algeria",
+    "code": "algeria",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Andorra",
+    "code": "andorra",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Angola",
+    "code": "angola",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "code": "antigua-and-barbuda",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Argentina",
+    "code": "argentina",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Armenia",
+    "code": "armenia",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Australia",
+    "code": "australia",
+    "status": "no",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=no",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states/australia",
+    "email": "un.geneva@dfat.gov.au"
+  },
+  {
+    "name": "Austria",
+    "code": "austria",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Azerbaijan",
+    "code": "azerbaijan",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Bahamas",
+    "code": "bahamas",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Bahrain",
+    "code": "bahrain",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Bangladesh",
+    "code": "bangladesh",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Barbados",
+    "code": "barbados",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Belarus",
+    "code": "belarus",
+    "status": "no",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=no",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states/belarus",
+    "email": "belarus.geneva@mfa.gov.by"
+  },
+  {
+    "name": "Belgium",
+    "code": "belgium",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Belize",
+    "code": "belize",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Benin",
+    "code": "benin",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Bhutan",
+    "code": "bhutan",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Bolivia",
+    "code": "bolivia",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "code": "bosnia-and-herzegovina",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Botswana",
+    "code": "botswana",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Brazil",
+    "code": "brazil",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Brunei Darussalam",
+    "code": "brunei-darussalam",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Bulgaria",
+    "code": "bulgaria",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Burkina Faso",
+    "code": "burkina-faso",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Burundi",
+    "code": "burundi",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Cabo Verde",
+    "code": "cabo-verde",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Cambodia",
+    "code": "cambodia",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Cameroon",
+    "code": "cameroon",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Canada",
+    "code": "canada",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states/canada",
+    "email": "genev-gr@international.gc.ca"
+  },
+  {
+    "name": "Central African Republic",
+    "code": "central-african-republic",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Chad",
+    "code": "chad",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Chile",
+    "code": "chile",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "China",
+    "code": "china",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Colombia",
+    "code": "colombia",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Comoros",
+    "code": "comoros",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Congo",
+    "code": "congo",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Costa Rica",
+    "code": "costa-rica",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Côte d’Ivoire",
+    "code": "cote-divoire",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Croatia",
+    "code": "croatia",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Cuba",
+    "code": "cuba",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Cyprus",
+    "code": "cyprus",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Czechia",
+    "code": "czechia",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/news/state_position/czechia/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states/czech-republic",
+    "email": "geneva@mzv.gov.cz"
+  },
+  {
+    "name": "Democratic People’s Republic of Korea",
+    "code": "democratic-peoples-republic-of-korea",
+    "status": "no",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=no",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states/democratic-peoples-republic-korea",
+    "email": "pgva.ts@bluewin.ch"
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "code": "democratic-republic-of-the-congo",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Denmark",
+    "code": "denmark",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states/denmark",
+    "email": "gvamis@um.dk"
+  },
+  {
+    "name": "Djibouti",
+    "code": "djibouti",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Dominica",
+    "code": "dominica",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Dominican Republic",
+    "code": "dominican-republic",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Ecuador",
+    "code": "ecuador",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Egypt",
+    "code": "egypt",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "El Salvador",
+    "code": "el-salvador",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "code": "equatorial-guinea",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Eritrea",
+    "code": "eritrea",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Estonia",
+    "code": "estonia",
+    "status": "no",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=no",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states/estonia",
+    "email": "mission.un@mfa.ee"
+  },
+  {
+    "name": "Eswatini",
+    "code": "eswatini",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Ethiopia",
+    "code": "ethiopia",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Fiji",
+    "code": "fiji",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Finland",
+    "code": "finland",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "France",
+    "code": "france",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states/france",
+    "email": "missionfrance.geneve-dfra@diplomatie.gouv.fr"
+  },
+  {
+    "name": "Gabon",
+    "code": "gabon",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Gambia",
+    "code": "gambia",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Georgia",
+    "code": "georgia",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Germany",
+    "code": "germany",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Ghana",
+    "code": "ghana",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Greece",
+    "code": "greece",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Grenada",
+    "code": "grenada",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Guatemala",
+    "code": "guatemala",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Guinea",
+    "code": "guinea",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Guinea Bissau",
+    "code": "guinea-bissau",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Guyana",
+    "code": "guyana",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Haiti",
+    "code": "haiti",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Holy See",
+    "code": "holy-see",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Honduras",
+    "code": "honduras",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Hungary",
+    "code": "hungary",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Iceland",
+    "code": "iceland",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "India",
+    "code": "india",
+    "status": "no",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=no",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states/india",
+    "email": "india.geneva@mea.gov.in"
+  },
+  {
+    "name": "Indonesia",
+    "code": "indonesia",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Iran",
+    "code": "iran",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Iraq",
+    "code": "iraq",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Ireland",
+    "code": "ireland",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Israel",
+    "code": "israel",
+    "status": "no",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=no",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states/israel",
+    "email": "mission-israel@geneva.mfa.gov.il"
+  },
+  {
+    "name": "Italy",
+    "code": "italy",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Jamaica",
+    "code": "jamaica",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Japan",
+    "code": "japan",
+    "status": "no",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=no",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states/japan",
+    "email": "mission@gv.mofa.go.jp"
+  },
+  {
+    "name": "Jordan",
+    "code": "jordan",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Kazakhstan",
+    "code": "kazakhstan",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Kenya",
+    "code": "kenya",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Kiribati",
+    "code": "kiribati",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Kuwait",
+    "code": "kuwait",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "code": "kyrgyzstan",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Lao PDR",
+    "code": "lao-pdr",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Latvia",
+    "code": "latvia",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Lebanon",
+    "code": "lebanon",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Lesotho",
+    "code": "lesotho",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Liberia",
+    "code": "liberia",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Libya",
+    "code": "libya",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Liechtenstein",
+    "code": "liechtenstein",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Lithuania",
+    "code": "lithuania",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Luxembourg",
+    "code": "luxembourg",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Madagascar",
+    "code": "madagascar",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Malawi",
+    "code": "malawi",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Malaysia",
+    "code": "malaysia",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Maldives",
+    "code": "maldives",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Mali",
+    "code": "mali",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Malta",
+    "code": "malta",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Marshall Islands",
+    "code": "marshall-islands",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Mauritania",
+    "code": "mauritania",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Mauritius",
+    "code": "mauritius",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Mexico",
+    "code": "mexico",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Micronesia",
+    "code": "micronesia",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Moldova",
+    "code": "moldova",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Monaco",
+    "code": "monaco",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Mongolia",
+    "code": "mongolia",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Montenegro",
+    "code": "montenegro",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Morocco",
+    "code": "morocco",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Mozambique",
+    "code": "mozambique",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Myanmar",
+    "code": "myanmar",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Namibia",
+    "code": "namibia",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Nauru",
+    "code": "nauru",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Nepal",
+    "code": "nepal",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Netherlands",
+    "code": "netherlands",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "New Zealand",
+    "code": "new-zealand",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states/new-zealand",
+    "email": "mission.nz@bluewin.ch"
+  },
+  {
+    "name": "Nicaragua",
+    "code": "nicaragua",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Niger",
+    "code": "niger",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Nigeria",
+    "code": "nigeria",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "North Macedonia",
+    "code": "north-macedonia",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Norway",
+    "code": "norway",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Oman",
+    "code": "oman",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Pakistan",
+    "code": "pakistan",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Palau",
+    "code": "palau",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Palestine",
+    "code": "palestine",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Panama",
+    "code": "panama",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Papua New Guinea",
+    "code": "papua-new-guinea",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Paraguay",
+    "code": "paraguay",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Peru",
+    "code": "peru",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Philippines",
+    "code": "philippines",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Poland",
+    "code": "poland",
+    "status": "no",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=no",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states/poland",
+    "email": "genewa.onz.sekretariat@msz.gov.pl"
+  },
+  {
+    "name": "Portugal",
+    "code": "portugal",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Qatar",
+    "code": "qatar",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Republic of Korea",
+    "code": "republic-of-korea",
+    "status": "no",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=no",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states/republic-korea",
+    "email": "geneva.korea@mofa.go.kr"
+  },
+  {
+    "name": "Romania",
+    "code": "romania",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Russian Federation",
+    "code": "russian-federation",
+    "status": "no",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=no",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states/russian-federation",
+    "email": "mission.russian@vtxnet.ch"
+  },
+  {
+    "name": "Rwanda",
+    "code": "rwanda",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "code": "saint-kitts-and-nevis",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Saint Lucia",
+    "code": "saint-lucia",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Samoa",
+    "code": "samoa",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "San Marino",
+    "code": "san-marino",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "code": "sao-tome-and-principe",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Saudi Arabia",
+    "code": "saudi-arabia",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Senegal",
+    "code": "senegal",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Serbia",
+    "code": "serbia",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Seychelles",
+    "code": "seychelles",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Sierra Leone",
+    "code": "sierra-leone",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Singapore",
+    "code": "singapore",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Slovakia",
+    "code": "slovakia",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Slovenia",
+    "code": "slovenia",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Solomon Islands",
+    "code": "solomon-islands",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Somalia",
+    "code": "somalia",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "South Africa",
+    "code": "south-africa",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "South Sudan",
+    "code": "south-sudan",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Spain",
+    "code": "spain",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Sri Lanka",
+    "code": "sri-lanka",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "St Vincent and the Grenadines",
+    "code": "st-vincent-and-the-grenadines",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Sudan",
+    "code": "sudan",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Suriname",
+    "code": "suriname",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Sweden",
+    "code": "sweden",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Switzerland",
+    "code": "switzerland",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Syria",
+    "code": "syria",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Tajikistan",
+    "code": "tajikistan",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Tanzania",
+    "code": "tanzania",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Thailand",
+    "code": "thailand",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Timor-Leste",
+    "code": "timor-leste",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Togo",
+    "code": "togo",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Tonga",
+    "code": "tonga",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "code": "trinidad-and-tobago",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Tunisia",
+    "code": "tunisia",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Türkiye",
+    "code": "turkiye",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states/turkiye",
+    "email": "turkiye.unog@mfa.gov.tr"
+  },
+  {
+    "name": "Turkmenistan",
+    "code": "turkmenistan",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Tuvalu",
+    "code": "tuvalu",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Uganda",
+    "code": "uganda",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Ukraine",
+    "code": "ukraine",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states/ukraine",
+    "email": "pm_un2@mfa.gov.ua"
+  },
+  {
+    "name": "United Arab Emirates",
+    "code": "united-arab-emirates",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states/united-arab-emirates",
+    "email": "genevaunprm@mofaic.gov.ae"
+  },
+  {
+    "name": "United Kingdom",
+    "code": "united-kingdom",
+    "status": "no",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=no",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states/united-kingdom-great-britain-and-northern-ireland",
+    "email": "geneva.un@fcdo.gov.uk"
+  },
+  {
+    "name": "United States of America",
+    "code": "united-states-of-america",
+    "status": "no",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=no",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states/united-states-america",
+    "email": "GenevaUSmission@state.gov"
+  },
+  {
+    "name": "Uruguay",
+    "code": "uruguay",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Uzbekistan",
+    "code": "uzbekistan",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Vanuatu",
+    "code": "vanuatu",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Venezuela",
+    "code": "venezuela",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Vietnam",
+    "code": "vietnam",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Yemen",
+    "code": "yemen",
+    "status": "undeclared",
+    "positionSource": "https://automatedresearch.org/state-positions/",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Zambia",
+    "code": "zambia",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  },
+  {
+    "name": "Zimbabwe",
+    "code": "zimbabwe",
+    "status": "yes",
+    "positionSource": "https://automatedresearch.org/state-positions/?_state_position_negotiation=yes",
+    "contactDirectory": "https://www.ungeneva.org/en/blue-book/missions/member-states"
+  }
+]
