@@ -96,6 +96,25 @@ copyButton.textContent = "COPY EMAIL TEXT";
 
 // Display the mission's email address
 const addressHeading = document.createElement("h3");
+const subjectHeading = document.createElement("h3");
+subjectHeading.textContent = "EMAIL SUBJECT";
+
+const emailSubject = document.createElement("div");
+emailSubject.className = "email-address";
+emailSubject.textContent = "Concerns about autonomous weapons";
+
+const copySubjectButton = document.createElement("button");
+copySubjectButton.type = "button";
+copySubjectButton.textContent = "COPY EMAIL SUBJECT";
+
+copySubjectButton.addEventListener("click", async () => {
+  try {
+    await navigator.clipboard.writeText(emailSubject.textContent);
+    copySubjectButton.textContent = "SUBJECT COPIED!";
+  } catch (error) {
+    window.prompt("Copy the email subject:", emailSubject.textContent);
+  }
+});
 addressHeading.textContent = "SEND TO";
 
 const emailAddress = document.createElement("div");
@@ -118,16 +137,19 @@ copyAddressButton.addEventListener("click", async () => {
 
 // Add everything to the page
 resultsSection.append(
-  heading,
-  position,
-  positionDescription,
-  source,
-  emailHeading,
-  emailText,
-  copyButton,
-  addressHeading,
-  emailAddress,
-  copyAddressButton
+heading,
+position,
+positionDescription,
+source,
+emailHeading,
+emailText,
+copyButton,
+subjectHeading,
+emailSubject,
+copySubjectButton,
+addressHeading,
+emailAddress,
+copyAddressButton
 );
 
 resultsSection.hidden = false;
